@@ -5,7 +5,7 @@ body {
 }
 
 .font_righteous {
-    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
 }
 
 .bck_black {
@@ -17,7 +17,7 @@ body {
 }
 
 .bck_red {
-    background:rgb(128, 81, 81);
+    background: rgb(128, 81, 81);
 }
 
 .bck_yellow {
@@ -34,7 +34,7 @@ body {
     width: 66%;
     margin: 0 auto;
     padding: 0px;
-    
+
 }
 
 
@@ -58,7 +58,7 @@ header .header_logo_venue {
 
 header .header_logo_title {
     text-transform: uppercase;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 /*====================
@@ -70,13 +70,13 @@ footer {
     text-align: center;
     font-size: 20px;
     color: #ffffff;
-    background:rgb(160, 108, 108);
+    background: rgb(160, 108, 108);
 }
 
 footer .footer_copyright {
     text-align: center;
     font-size: 18px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 /*====================
@@ -160,6 +160,7 @@ footer .footer_copyright {
 .wrapper {
     background-color: #896E60;
 }
+
 /*====================
         VENUE NFO
 ======================*/
@@ -168,6 +169,7 @@ footer .footer_copyright {
     color: #ffffff;
     padding: 30px, 0px;
 }
+
 .vn_wrapper {
     display: flex;
     padding-bottom: 100px;
@@ -175,7 +177,7 @@ footer .footer_copyright {
 }
 
 .vn_item {
-    width:35%;
+    width: 35%;
     color: #ffffff;
     text-align: center;
     padding-left: 15px;
@@ -260,13 +262,13 @@ footer .footer_copyright {
 }
 
 .discount_wrapper {
-    display: flex;   
+    display: flex;
     margin: auto;
-    width: 50%;  
+    width: 50%;
     padding: 10px 0px;
 }
 
- .discount_wrapper .discount_porcentage {
+.discount_wrapper .discount_porcentage {
     padding-right: 100px;
 }
 
@@ -283,7 +285,7 @@ footer .footer_copyright {
     font-size: 50px;
     font-weight: 400;
     display: block;
-} 
+}
 
 .discount_wrapper {
     width: 33%;
@@ -441,6 +443,6 @@ footer .footer_copyright {
     text-align: center;
 }
 
-
-
-
+.map_tag {
+    filter: grayscale(100%);
+}
