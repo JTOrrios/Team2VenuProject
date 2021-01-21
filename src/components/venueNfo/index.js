@@ -16,7 +16,6 @@ const VunueNfo = () => {
                         <div className="vn_item">
                             <div className="vn_outer">
                                 <div className="vn_inner">
-                                    <div className="vn_icon_square bck_brown"></div>
                                     <img src= {Istish} alt="" className="staff_pic"
                                         style={{width:"100%",
                                         height: "auto",
@@ -37,7 +36,6 @@ const VunueNfo = () => {
                         <div className="vn_item">
                             <div className="vn_outer">
                                 <div className="vn_inner">
-                                    <div className="vn_icon_square bck_brown"></div>
                                     <img src= {Doug} alt="" className="staff_pic"
                                         style={{width:"100%",
                                         height: "auto",
@@ -57,7 +55,6 @@ const VunueNfo = () => {
                         <div className="vn_item">
                             <div className="vn_outer">
                                 <div className="vn_inner">
-                                    <div className="vn_icon_square bck_brown"></div>
                                     <img src= {Genghis} alt="" className="staff_pic"
                                         style={{width:"100%",
                                         height: "auto",
