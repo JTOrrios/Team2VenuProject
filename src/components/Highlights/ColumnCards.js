@@ -27,7 +27,7 @@ const ColumnCards = () => {
 
                     <div class="column-sim">
                         <div class="card-sim">
-                            <h3>Bugdet App</h3>
+                            <h3>Budget App</h3>
                             <br></br>
                             <img src= {seals2} alt="" className="staff_pic"
                             style={{width:"100%",

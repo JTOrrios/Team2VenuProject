@@ -260,12 +260,10 @@ footer .footer_copyright {
 }
 
 .discount_wrapper {
-    display: flex;
-   
+    display: flex;   
     margin: auto;
-  width: 50%;
-  
-  padding: 10px 0px;
+    width: 50%;  
+    padding: 10px 0px;
 }
 
  .discount_wrapper .discount_porcentage {
@@ -287,6 +285,9 @@ footer .footer_copyright {
     display: block;
 } 
 
+.discount_wrapper {
+    width: 33%;
+}
 
 .discount_wrapper .discount_description h3 {
     font-size: 34px;
@@ -312,6 +313,7 @@ footer .footer_copyright {
 /* Remove extra left and right margins, due to padding */
 .row-sim {
     margin: 0 -100px;
+    align-content: center;
 }
 
 /* Clear floats after the columns */
