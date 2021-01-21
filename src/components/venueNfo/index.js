@@ -77,7 +77,10 @@ const VunueNfo = () => {
                 </div>
             </div>
         </div>
+
     );
+
+    
 };
 
 export default VunueNfo;

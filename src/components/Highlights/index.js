@@ -11,6 +11,8 @@ const Highlights = () => {
             <Discount/>
         </div>
     );
+
+    
 };
 
 export default Highlights;

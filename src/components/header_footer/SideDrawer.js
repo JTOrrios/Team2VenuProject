@@ -24,8 +24,8 @@ const SideDrawer = (props) => {
                     Event starts in
                 </ListItem>
 
-                <ListItem button onClick={() => scrollToElement ('venuenfo')}>
-                    Staff
+                <ListItem button onClick={() => scrollToElement ('venueNfo')}>
+                Meet the Staff
                 </ListItem>
 
                 <ListItem button onClick={() => scrollToElement ('highlights')}>
@@ -42,6 +42,7 @@ const SideDrawer = (props) => {
             </List>
         </Drawer>
     );
+    
 };
 
 export default SideDrawer;
