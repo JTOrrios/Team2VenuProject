@@ -50,7 +50,7 @@ class Discount extends Component {
                                 </blockquote>
                             </Fade>
 
-                            <MyButton text="Learn More" bck="#ffa800" color="#ffffff" link="https://www.techtalentpipeline.nyc/" />
+                            <MyButton text="Click Here To Learn More About The TTP Bootcamp" bck="#ffa800" color="#ffffff" link="https://www.techtalentpipeline.nyc/" />
 
                         </div>
 

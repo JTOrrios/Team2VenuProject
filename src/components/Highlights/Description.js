@@ -6,7 +6,7 @@ const Description = () => {
         <Fade>
             <div className="center_wrapper">
                 <div className="highlight_description">
-                    Some filler text - whatever
+                    
                 </div>
             </div>
         </Fade>
