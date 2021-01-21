@@ -52,7 +52,7 @@ class Pricing extends Component{
         return(
             <div className = "bck_black">
                 <div className = "center_wrapper pricing_section">
-                    <h2>Interships</h2>
+                    <h2>Internships</h2>
                     <p>We have the oppurtunites to work with prominent companies such as...</p>
                     <div className = "pricing_wrapper">
                         {this.showBoxes()}
